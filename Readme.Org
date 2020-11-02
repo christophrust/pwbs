@@ -1,0 +1,4 @@
+* Readme
+
+** How to get things back
+Decrypt the archive using src_sh[:export code]{gpg --decrypt pass-bootstrap.tar.asc}.
